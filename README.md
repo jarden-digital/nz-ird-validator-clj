@@ -4,7 +4,7 @@ _A validator for New Zealand tax numbers (IRD)_
 
 ## Installation
 
-[![Clojars Project](https://clojars.org/jarden/nz-ird-validator/latest-version.svg)](http://clojars.org/jarden/nz-ird-validator)
+[![Clojars Project](https://clojars.org/nz-ird-validator-cljlatest-version.svg)](https://clojars.org/nz-ird-validator-clj)
 
 ## Usage
 

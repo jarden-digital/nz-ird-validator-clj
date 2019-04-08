@@ -37,8 +37,3 @@
   (-> ird-number
       remove-dashes
       is-valid-IRD-Number))
-
-
-(defn -main
-  [ird-number]
-  (nz-ird-validator ird-number))
