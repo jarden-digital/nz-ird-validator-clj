@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="39a8eb21-2d6b-48c4-ac99-0b7d8157f2d0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nz-ird-validator-clj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nz-ird-validator-clj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nz_ird_validator_clj/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/nz_ird_validator_clj/core.clj" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,20 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.clj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nz_ird_validator_clj/core.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            <state relative-caret-position="105">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -108,11 +104,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="1853" />
-    <option name="height" value="1053" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -161,7 +156,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="ReplState" timestamp="1554700089448">{:repl-history {:ide [], :local [{:command &quot;(-main \&quot;tst\&quot;\n       )&quot;, :offset 21, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;teet\&quot;)&quot;, :offset 14, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-isValidIRDNumber \&quot;123\&quot;)&quot;, :offset 25, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(+ 1 2)&quot;, :offset 7, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(defn isValidIRDNumber [irdNumber]\n  (str \&quot;Hello, \&quot; irdNumber) )&quot;, :offset 64, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main)&quot;, :offset 7, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-isValidIRDNumber)&quot;, :offset 19, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(isValidIRDNumber)&quot;, :offset 18, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;test\&quot;)&quot;, :offset 14, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(isValidIRDNumber \&quot;test\&quot;)&quot;, :offset 25, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;tttt\&quot;)&quot;, :offset 14, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;tt-t-t\&quot;)&quot;, :offset 16, :ns &quot;nz-ird-validator-clj.core&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1555014857823">{:repl-history {:ide [], :local [{:command &quot;(-main \&quot;tst\&quot;\n       )&quot;, :offset 21, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;teet\&quot;)&quot;, :offset 14, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-isValidIRDNumber \&quot;123\&quot;)&quot;, :offset 25, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(+ 1 2)&quot;, :offset 7, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(defn isValidIRDNumber [irdNumber]\n  (str \&quot;Hello, \&quot; irdNumber) )&quot;, :offset 64, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-isValidIRDNumber)&quot;, :offset 19, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(isValidIRDNumber)&quot;, :offset 18, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;test\&quot;)&quot;, :offset 14, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(isValidIRDNumber \&quot;test\&quot;)&quot;, :offset 25, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;tttt\&quot;)&quot;, :offset 14, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;tt-t-t\&quot;)&quot;, :offset 16, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;111-111-111\&quot;)&quot;, :offset 21, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main)&quot;, :offset 7, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;123-234-345-1\&quot;)&quot;, :offset 23, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;123-234-345-12\&quot;)&quot;, :offset 24, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;123-234-345\&quot;)&quot;, :offset 21, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(take-last 1 \&quot;test\&quot;)&quot;, :offset 20, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(take-last 1 1234)&quot;, :offset 18, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(take-last 1 (str 1234))&quot;, :offset 24, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(take-last (str 123123) 1)&quot;, :offset 26, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format (str 123) 5432)&quot;, :offset 23, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format (str 123) 2)&quot;, :offset 20, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%5d\&quot; 3)&quot;, :offset 16, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%07d\&quot; 3)&quot;, :offset 17, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%08d\&quot; 123123123)&quot;, :offset 25, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%08d\&quot; 123123)&quot;, :offset 22, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(subs (str 123123) 1 5)&quot;, :offset 23, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(subs (str 123123) 0 7)&quot;, :offset 23, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(drop-last (str 123123))&quot;, :offset 24, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(join \&quot;\&quot; (drop-last (str 123123)))&quot;, :offset 34, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%08d\&quot; (clojure.string/join \&quot;\&quot; (drop-last (str 123123))))&quot;, :offset 65, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(clojure.string/join \&quot;\&quot; (drop-last (str 123123))))&quot;, :offset 50, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%08d\&quot; \&quot;test\&quot;&quot;, :offset 21, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%08d\&quot; \&quot;test\&quot;) &quot;, :offset 23, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%08d\&quot; 123) &quot;, :offset 20, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%08s\&quot; (clojure.string/join \&quot;\&quot; (drop-last (str 123123))))&quot;, :offset 65, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;123&quot;, :offset 3, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(clojure.string/join \&quot;\&quot; (drop-last (str 123123)))&quot;, :offset 49, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;123-123-123\&quot;)&quot;, :offset 21, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;123-123-11\&quot;)&quot;, :offset 20, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(str/split \&quot;123123\&quot; \&quot;\&quot;)&quot;, :offset 23, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(split \&quot;123123\&quot; \&quot;\&quot;)&quot;, :offset 19, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(clojure.string.split \&quot;123123\&quot; \&quot;\&quot;)&quot;, :offset 34, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(clojure.string/split \&quot;123123\&quot; \&quot;\&quot;)&quot;, :offset 34, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(iterate inc (clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;)) &quot;, :offset 50, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(iterate inc (convert-int (clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;))) &quot;, :offset 64, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(iterate inc ((clojure.string/split \&quot;123123\&quot; (convert-int #\&quot;\&quot;)))) &quot;, :offset 66, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(iterate inc ((clojure.string/split \&quot;123123\&quot; (convert-int #\&quot;%d\&quot;)))) &quot;, :offset 68, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(clojure.string/split \&quot;123123\&quot; #\&quot;%d\&quot;)&quot;, :offset 37, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(int \&quot;1\&quot;)&quot;, :offset 9, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(int (char \&quot;1\&quot;))&quot;, :offset 16, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(Integer/parseInt \&quot;1\&quot;)&quot;, :offset 22, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(format \&quot;%08d\&quot; (convert-int (clojure.string/join \&quot;\&quot; (drop-last (str \&quot;123123\&quot;)))))&quot;, :offset 81, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(str/split (format \&quot;%08d\&quot; (convert-int (clojure.string/join \&quot;\&quot; (drop-last (str \&quot;123123\&quot;))))) \&quot;\&quot;) &quot;, :offset 97, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(clojure.string/split (format \&quot;%08d\&quot; (convert-int (clojure.string/join \&quot;\&quot; (drop-last (str \&quot;123123\&quot;))))) \&quot;\&quot;) &quot;, :offset 108, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(clojure.string/split (format \&quot;%08d\&quot; (convert-int (clojure.string/join \&quot;\&quot; (drop-last (str \&quot;123123\&quot;))))) #\&quot;\&quot;) &quot;, :offset 109, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;123-123\&quot;)&quot;, :offset 17, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(get-check-digit \&quot;123123\&quot; \&quot;111111\&quot;)&quot;, :offset 35, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map * (map #(Integer/parseInt %) (clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;)) ((map #(Integer/parseInt %) (clojure.string/split \&quot;321321\&quot; #\&quot;\&quot;))))&quot;, :offset 137, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map * (map #(convert-int %) (clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;)) ((map #(convert-int %) (clojure.string/split \&quot;321321\&quot; #\&quot;\&quot;))))&quot;, :offset 127, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map #(Integer/parseInt %) (clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;))&quot;, :offset 63, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map #(Integer/parseInt [%]) (clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;))&quot;, :offset 65, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;)&quot;, :offset 35, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map #(Integer/parseInt %) (clojure.string/split ird #\&quot;\&quot;))&quot;, :offset 58, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map * (1 2 3) (1 2 3))&quot;, :offset 23, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map11 * (1 2 3) (1 2 3))&quot;, :offset 25, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(mapv #(Integer/parseInt %) (clojure.string/split ird #\&quot;\&quot;))&quot;, :offset 59, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map * '(1 2 3) '(1 2 3))&quot;, :offset 25, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(mapv #(Integer/parseInt %) (clojure.string/split 123 #\&quot;\&quot;))&quot;, :offset 59, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(mapv #(Integer/parseInt %) (clojure.string/split \&quot;123\&quot; #\&quot;\&quot;))&quot;, :offset 61, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map * (mapv #(Integer/parseInt %) (clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;)) ((mapv #(Integer/parseInt %) (clojure.string/split \&quot;321321\&quot; #\&quot;\&quot;))))&quot;, :offset 139, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map * (mapv #(Integer/parseInt %) (clojure.string/split \&quot;123123\&quot; #\&quot;\&quot;)) (mapv #(Integer/parseInt %) (clojure.string/split \&quot;321321\&quot; #\&quot;\&quot;)))&quot;, :offset 137, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(get-check-digit \&quot;123123\&quot; \&quot;123123\&quot;)&quot;, :offset 35, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(apply + (map [1 2 3 1 2 3] [3 2 1 3 2 1]))&quot;, :offset 43, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(mod (apply + (map [1 2 3 1 2 3] [3 2 1 3 2 1]) 11))&quot;, :offset 52, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(mod (apply + (map [1 2 3 1 2 3] [3 2 1 3 2 1])) 11)&quot;, :offset 52, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(mod (apply + (map * [1 2 3 1 2 4] [3 2 1 3 2 1])) 11)&quot;, :offset 54, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(- 11 (mod (apply + (map * [1 2 3 1 2 4] [3 2 1 3 2 1])) 11))&quot;, :offset 61, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(- 11 (mod (apply + (map * [1 2 3 1 2 3] [3 2 1 3 2 1])) 11))&quot;, :offset 61, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(mod (apply + (map * [1 2 3 1 2 3] [3 2 1 3 2 1])) 11)&quot;, :offset 54, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(get-check-digit \&quot;123123\&quot; \&quot;321321\&quot;)&quot;, :offset 35, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;123-123-12\&quot;)&quot;, :offset 20, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;49091850\&quot;)&quot;, :offset 18, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;490-918-50\&quot;)&quot;, :offset 20, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;136410132\&quot;)&quot;, :offset 19, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;136410133\&quot;)&quot;, :offset 19, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(mapv Integer/parseInt \&quot;12345\&quot;)&quot;, :offset 31, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(map prn \&quot;123\&quot;)&quot;, :offset 15, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;49098576\&quot;)&quot;, :offset 18, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;9125568\&quot;)&quot;, :offset 17, :ns &quot;nz-ird-validator-clj.core&quot;} {:command &quot;(-main \&quot;35901981\&quot;)&quot;, :offset 18, :ns &quot;nz-ird-validator-clj.core&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -229,12 +224,12 @@
       <updated>1554605893659</updated>
       <workItem from="1554605901191" duration="3421000" />
       <workItem from="1554677805537" duration="22000" />
-      <workItem from="1554677845509" duration="15256000" />
+      <workItem from="1554677845509" duration="18390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18699000" />
+    <option name="totallyTimeSpent" value="21833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,13 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nz_ird_validator_clj/core.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -362,7 +350,14 @@
     <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nz_ird_validator_clj/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
